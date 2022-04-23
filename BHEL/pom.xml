@@ -9,7 +9,7 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<springframework.version>4.3.10.RELEASE</springframework.version>
+		<springframework.version>5.3.19</springframework.version>
 		<Tiles.version>3.0.8</Tiles.version>
 	</properties>
 
